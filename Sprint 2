@@ -7,4 +7,5 @@ Este repositorio contiene los siguientes archivos:
 - El archivo de código html con Bootstrap CSS Y JS
 
 Se le hizo algunos cambios en la maquetación de la página, este ya tiene botones responsivos, página más interactiva y fueron agregados con bootstrap.
+Una recomencadión, la ejecución del index fue desde Visual Code, el cual abre a una página de google y genera el home sin problema.
 El propósito es para que las personas que lo vayan a revisar lo puedan ejecutar y que estén todos los archivos del proyecto de una forma estructurada y organizada siguiendo paso a paso.
