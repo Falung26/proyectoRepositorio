@@ -1,0 +1,11 @@
+# proyectoRepositorio
+Diseño Responsivo - FrontEnd
+Este repositorio contiene los siguientes archivos:
+- La carpeta Assets estarán los anexos del proyecto como imágenes, códigos, etc.
+- El archivo index.html dónde tendrá que ser ejecutado en Visual Studio Code para visualizar el trabajo final.
+- El archivo de código html con Bootstrap CSS Y JS
+
+Se le agregaron algunos cambios en la maquetación de la página, este ya tiene botones responsivos, página más interactiva, tiene responsive de pantallas y fueron agregados con bootstrap.
+Una recomencadión, la ejecución del index fue desde Visual Code, el cuál abre a una página de google y genera el home sin problema.
+También yo tengo acceso al formulario dónde recapitulamos los leads, adjuntaré link del formulario: https://formoid.net/?call=forms_entries&param=536762
+El propósito es para que las personas que lo vayan a revisar lo puedan ejecutar y que estén todos los archivos del proyecto de una forma estructurada y organizada siguiendo paso a paso.
